@@ -1,15 +1,9 @@
 <!-- HEADER -->
-<div><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:000000&height=200&section=header&text=Carlos%20Eduardo&fontSize=40&fontColor=ffffff"/>
-</p>
-<img src="assets/codesnapshot.png">
-</div>
-<!-- TYPING -->
-<p align="center">
+<table>
+  <tr align="top">
+    <td align="top"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:000000&height=300&section=header&text=Carlos%20Eduardo&fontSize=40&fontColor=ffffff" align="top"/>
+    <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=0EA5E9&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Apaixonado+por+tecnologia;Construindo+projetos+reais"/>
-</p>
-
----
 
 ## 👨‍💻 Sobre mim
 - 🎯 Focado em me tornar um desenvolvedor Full Stack
@@ -25,10 +19,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
-
----
+</p>
+    </td>
+    <td><img src="assets/codesnapshot.png"></td>
+  </tr>
+</table>
 
 ## 📊 Estatísticas
 
