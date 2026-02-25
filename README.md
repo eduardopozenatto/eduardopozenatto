@@ -41,7 +41,7 @@
 ## 🔥 Sequência de commits
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USER&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=eduardopozenatto&theme=tokyonight"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
   <a href="https://linkedin.com/in/SEU_LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:carlospozenatto.contato@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
