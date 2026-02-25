@@ -1,8 +1,9 @@
 <!-- HEADER -->
-<p align="center">
+<div><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:000000&height=200&section=header&text=Carlos%20Eduardo&fontSize=40&fontColor=ffffff"/>
 </p>
-
+<img src="assets/codesnapshot.png">
+</div>
 <!-- TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=0EA5E9&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Apaixonado+por+tecnologia;Construindo+projetos+reais"/>
